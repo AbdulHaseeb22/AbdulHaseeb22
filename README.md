@@ -40,6 +40,7 @@
     <img src="https://skillicons.dev/icons?i=spring,flask,django,nodejs,express" /><br>
     <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,cassandra,redis" /><br>
     <img src="https://skillicons.dev/icons?i=docker,nginx,kubernetes,jenkins,git" /><br>
+    <img src="https://skillicons.dev/icons?i=tensorflow,numpy,pandas,keras,spacy" /><br>
 </div>
 
 <br/>
