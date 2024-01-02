@@ -34,13 +34,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,c" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,react,angular,nextjs" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,mui,figma,tailwind,graphql" /><br>
-    <img src="https://skillicons.dev/icons?i=spring,flask,django,nodejs,express" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,cassandra,redis" /><br>
-    <img src="https://skillicons.dev/icons?i=docker,nginx,kubernetes,jenkins,git" /><br>
-    <img src="https://skillicons.dev/icons?i=tensorflow,numpy,pandas,keras,spacy" /><br>
+    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,c,html,css," /><br>
+    <img src="https://skillicons.dev/icons?i=react,angular,nextjs,bootstrap,mui,figma,tailwind,graphql" /><br>
+    <img src="https://skillicons.dev/icons?i=spring,flask,django,nodejs,express,mysql,postgresql,mongodb," /><br>
+    <img src="https://skillicons.dev/icons?i=docker,nginx,kubernetes,jenkins,git,cassandra,redis,tensorflow" /><br>
 </div>
 
 <br/>
