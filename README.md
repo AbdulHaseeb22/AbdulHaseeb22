@@ -39,7 +39,7 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,mui,figma,tailwind,antd" /><br>
     <img src="https://skillicons.dev/icons?i=spring,flask,django,nodejs,express" /><br>
     <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,cassandra,redis" /><br>
-    <img src="https://skillicons.dev/icons?i=docker,nginx,kubernetes,jenkints,git" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,nginx,kubernetes,jenkins,git" /><br>
 </div>
 
 <br/>
