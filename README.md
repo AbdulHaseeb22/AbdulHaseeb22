@@ -36,7 +36,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,c" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,react,angular,nextjs" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,mui,figma,tailwind,antd" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,mui,figma,tailwind,babel" /><br>
     <img src="https://skillicons.dev/icons?i=spring,flask,django,nodejs,express" /><br>
     <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,cassandra,redis" /><br>
     <img src="https://skillicons.dev/icons?i=docker,nginx,kubernetes,jenkins,git" /><br>
