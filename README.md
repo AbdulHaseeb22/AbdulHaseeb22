@@ -38,7 +38,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,react,angular,nextjs" /><br>
     <img src="https://skillicons.dev/icons?i=bootstrap,mui,figma,tailwind,antd" /><br>
     <img src="https://skillicons.dev/icons?i=spring,flask,django,nodejs,express" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,mariadb,cassandradb" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,mariadb,cassandra" /><br>
 </div>
 
 <br/>
