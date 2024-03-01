@@ -11,7 +11,7 @@
 <div align="center">
  
 
-💬 Ask me about **Front-End, backend, AI.... or anything [here](https://github.com/AbdulHaseeb22/AbdulHaseeb22/issues)**
+💬 Ask me about **Front-End, backend, Cloud Services, AI [here](https://github.com/AbdulHaseeb22/AbdulHaseeb22/issues)**
 
 
  </div>
